@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.p1kacat.unsquishednether.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "MixinDimensionType"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
